@@ -13,7 +13,7 @@ Clonez le dépôt et exécutez le script d'installation. Ce script prend en char
 
 git clone https://github.com/olinux68/setup_yolov5.git
 cd setup_yolov5
-./install.sh
+./setup.sh
 Utilisation
 Après l'installation, activez l'environnement virtuel créé par le script avant de lancer la détection :
 
