@@ -21,6 +21,7 @@ Utilisation
 Après l'installation, activez l'environnement virtuel créé par le script avant de lancer la détection :
 
 source yolov5-venv/bin/activate
+
 Lancez ensuite le script de détection sur une source vidéo publique pour tester l'installation :
 
 source video public
