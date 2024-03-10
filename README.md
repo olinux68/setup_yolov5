@@ -21,6 +21,7 @@ source yolov5-venv/bin/activate
 Lancez ensuite le script de détection sur une source vidéo publique pour tester l'installation :
 
 source video public
+
 python detect.py --weights yolov5s.pt --img 640 --conf 0.25 --source http://158.58.130.148/mjpg/video.mjpg
 
 
