@@ -20,7 +20,11 @@ Après l'installation, activez l'environnement virtuel créé par le script avan
 source yolov5-venv/bin/activate
 Lancez ensuite le script de détection sur une source vidéo publique pour tester l'installation :
 
+source video public
 python detect.py --weights yolov5s.pt --img 640 --conf 0.25 --source http://158.58.130.148/mjpg/video.mjpg
+
+
+
 Contribution
 Toutes les propositions d'amélioration sont les bienvenues. Pour contribuer, veuillez ouvrir une issue ou proposer un pull request sur le dépôt GitHub.
 
